@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amberish
 - 👀 I’m interested in Frontend, Fullstack & Cloud Engineering
-- 🌱 I’m currently learning to create event driven applications based on AWS Even Bridge, SNS, SQS & Lambda based architecture 
+- 🌱 I’m currently learning to create event driven applications based on AWS Event Bridge, SNS, SQS & Lambda based architecture 
 - 📫 How to reach me amberish.raj@gmail.com
 
 <!---
